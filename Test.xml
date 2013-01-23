@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<cards source="English" destination="Russian">
+    <card word="abandon" transcription="†'¤‡¬†" mode="0" shown="0" tested="0">
+        <translations>
+            <translation word="покидать" />
+            <translation word="оставлять" />
+            <translation word="самовольно уходить" />
+        </translations>
+    </card>
+    <card word="dogged" transcription="'¬€±Ў¬" mode="0" shown="0" tested="0">
+        <translations>
+            <translation word="упрямый" />
+            <translation word="упорный" />
+            <translation word="настойчивый" />
+        </translations>
+    </card>
+    <card word="drastic" transcription="'¬Ї‡©«Ў°" mode="0" shown="0" tested="0">
+        <translations>
+            <translation word="сильнодействующий" />
+        </translations>
+    </card>
+    <card word="eulogy" transcription="'¬Ї‡©«Ў°" mode="0" shown="0" tested="0">
+        <translations>
+            <translation word="хвалебная речь" />
+            <translation word="панегирик" />
+        </translations>
+    </card>
+    <card word="fasten" transcription="'¬Ї‡©«Ў°" mode="0" shown="0" tested="0">
+        <translations>
+            <translation word="прикреплять" />
+            <translation word="привязывать" />
+            <translation word="связывать" />
+        </translations>
+    </card>
+    <card word="hoax" transcription="'¬Ї‡©«Ў°" mode="0" shown="0" tested="0">
+        <translations>
+            <translation word="обман" />
+            <translation word="ложь" />
+            <translation word="мистификация" />
+            <translation word="неправда" />
+        </translations>
+    </card>
+    <card word="incense" transcription="'¬Ї‡©«Ў°" mode="0" shown="0" tested="0">
+        <translations>
+            <translation word="ладан" />
+            <translation word="фимиам" />
+        </translations>
+    </card>
+    <card word="meek" transcription="'¬Ї‡©«Ў°" mode="0" shown="0" tested="0">
+        <translations>
+            <translation word="кроткий" />
+            <translation word="мягкий" />
+            <translation word="покорный" />
+            <translation word="послушный" />
+            <translation word="смиренный" />
+        </translations>
+    </card>
+</cards>

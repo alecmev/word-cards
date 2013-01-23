@@ -1,0 +1,71 @@
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\bin\Debug\MyFa Cards.exe
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\bin\Debug\MyFa Cards.pdb
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MainWindow.baml
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\App.g.cs
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards_MarkupCompile.cache
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards.g.resources
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa.Properties.Resources.resources
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards.exe
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards.pdb
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards_MarkupCompile.lref
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards_Content.g.cs
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\InputWindow.g.cs
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\ManagementWindow.g.cs
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\CollectionsWindow.g.cs
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\InputWindow.baml
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\ManagementWindow.baml
+C:\Users\MyFaJoArCo\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\CollectionsWindow.baml
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards.exe
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards.pdb
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\bin\Debug\MyFa Cards.exe
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\bin\Debug\MyFa Cards.pdb
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\InputWindow.g.cs
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MainWindow.g.cs
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\ManagementWindow.g.cs
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\CollectionsWindow.g.cs
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\App.g.cs
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards_Content.g.cs
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards_MarkupCompile.cache
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards_MarkupCompile.lref
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\InputWindow.baml
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MainWindow.baml
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\ManagementWindow.baml
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\CollectionsWindow.baml
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards.g.resources
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa.Properties.Resources.resources
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\CardWindow.g.cs
+C:\Everything\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\CardWindow.baml
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards.exe
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards.pdb
+D:\Stuff\Job\MyFa Cards\MyFa Cards\bin\Debug\MyFa Cards.exe
+D:\Stuff\Job\MyFa Cards\MyFa Cards\bin\Debug\MyFa Cards.pdb
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\CardWindow.g.cs
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\InputWindow.g.cs
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MainWindow.g.cs
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\ManagementWindow.g.cs
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\CollectionsWindow.g.cs
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\App.g.cs
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards_Content.g.cs
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards_MarkupCompile.cache
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards_MarkupCompile.lref
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\CardWindow.baml
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\InputWindow.baml
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MainWindow.baml
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\ManagementWindow.baml
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\CollectionsWindow.baml
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa Cards.g.resources
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\MyFa.Properties.Resources.resources
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Stuff\Job\MyFa Cards\MyFa Cards\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Stuff\Job\MyFa Cards\MyFa Cards\bin\Debug\MyFa Cards.exe.config

@@ -1,0 +1,78 @@
+﻿<Window x:Class="MyFa.ManagementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:y="clr-namespace:MyFa"
+        Title="MyFa Cards - Management" Icon="Logo.ico" ResizeMode="NoResize" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterOwner">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8" />
+            <ColumnDefinition Width="525" />
+            <ColumnDefinition Width="8" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="8" />
+            <RowDefinition Height="256" />
+            <RowDefinition Height="8" />
+            <RowDefinition Height="32" />
+            <RowDefinition Height="4" />
+        </Grid.RowDefinitions>
+
+        <y:SecondMenu Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="1" Height="20" Title="Tools">
+            <y:SecondMenu.Buttons>
+                <y:SecondMenuButton Filter="Gold" Title="import" Click="ImportClick" />
+                <y:SecondMenuButton Title="" AutoWidth="False" Width="16" IsEnabled="False" />
+                <y:SecondMenuButton Filter="Green" Title="select all" Click="SelectAllClick" />
+                <y:SecondMenuButton Filter="Green" Title="add new" Click="AddNewClick" />
+                <y:SecondMenuButton Filter="Green" Title="edit" Click="EditClick" />
+                <y:SecondMenuButton Title="" AutoWidth="False" Width="16" IsEnabled="False" />
+                <y:SecondMenuButton Filter="Red" Title="delete" Click="DeleteClick" />
+            </y:SecondMenu.Buttons>
+        </y:SecondMenu>
+
+        <Border Grid.Column="1" Grid.Row="3" Background="#3F000000" CornerRadius="4, 4, 4, 4" />
+        <Grid Grid.Column="1" Grid.Row="3">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="4" />
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="4" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="4" />
+            </Grid.RowDefinitions>
+
+            <DataGrid Grid.Column="1" Grid.Row="1" Name="CardGrid" RowHeaderWidth="20" GridLinesVisibility="None" CanUserResizeRows="False" CanUserReorderColumns="False" CanUserResizeColumns="False" BorderThickness="0" Background="White" AutoGenerateColumns="False" IsReadOnly="True">
+                <DataGrid.RowHeaderTemplate>
+                    <DataTemplate>
+                        <CheckBox IsChecked="{Binding Path=IsSelected, Mode=TwoWay, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type DataGridRow}}}" />
+                    </DataTemplate>
+                </DataGrid.RowHeaderTemplate>
+                <DataGrid.Columns>
+                    <DataGridComboBoxColumn Width="64" Header="Mode" MaxWidth="64" x:Name="ModeComboBox" SelectedItemBinding="{Binding Mode}" />
+                    <DataGridTextColumn Width="64" Header="Word" MaxWidth="64" Binding="{Binding Word}" />
+                    <DataGridTextColumn Width="256" Header="Translations" MaxWidth="256" Binding="{Binding Translations}" />
+                    <DataGridTextColumn Width="48" IsReadOnly="True" Header="Shown" MaxWidth="48" Binding="{Binding Shown}" />
+                    <DataGridTextColumn Width="48" IsReadOnly="True" Header="Tested" MaxWidth="48" Binding="{Binding Tested}" />
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </Grid>
+
+        <y:SecondMenu Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="5" Height="32" Title="Result">
+            <y:SecondMenu.Buttons>
+                <y:SecondMenuButton Filter="Green" AutoWidth="False" Width="128" Title="save" Click="SaveClick" />
+                <y:SecondMenuButton Filter="Red" AutoWidth="False" Width="128" Title="cancel" Click="CancelClick" />
+            </y:SecondMenu.Buttons>
+        </y:SecondMenu>
+
+    </Grid>
+
+</Window>
